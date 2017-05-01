@@ -65,10 +65,10 @@ else
     % AIAA SciTech 2017 CASES
     %jobID=114;  % AIAA Uniform Trapezoidal Plate, linear tapered thickness, isotropic
     %jobID=115;  % AIAA Uniform Trapezoidal Core Filled Wing, Rect Foil
-    jobID=113;  % LIU BUILT-UP WING w/ 4PLY SMEARED VLAM, 4 SPARS
+    %jobID=113;  % LIU BUILT-UP WING w/ 4PLY SMEARED VLAM, 4 SPARS
     % =======================
 
-    %jobID=96;   % Cantilevered Unswept Wing y-dir span
+    jobID=96;   % Cantilevered Unswept Wing y-dir span
 
 
     % ===========
