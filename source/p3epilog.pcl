@@ -1,0 +1,6 @@
+ui_write("start p3epilog.pcl")
+
+$!!lib /appserv/sat2/dev/hensomc/dev/pst/wing_fem.plb
+
+!!lib C:\Users\hensomc\Documents\MATLAB\vs_lam\vs_lam_working\wing_fem.plb
+ui_write("finish p3epilog.pcl")
